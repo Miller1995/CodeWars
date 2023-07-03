@@ -1,4 +1,7 @@
 public class ExclamationMark {
+    /**
+     * Write function RemoveExclamationMarks which removes all exclamation marks from a given string.
+     */
     public static void main(String[] args) {
         String s = "Hello World!";
         System.out.println(remove(s));
