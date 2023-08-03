@@ -21,6 +21,6 @@ public class RemovingElement {
                 list.add(arr[i]);
             }
         }
-       return list.toArray();
+        return list.toArray();
     }
 }

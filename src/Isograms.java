@@ -4,12 +4,11 @@ public class Isograms {
      * An isogram is a word that has no repeating letters, consecutive or non-consecutive.
      * Implement a function that determines whether a string that contains only letters is an isogram.
      * Assume the empty string is an isogram. Ignore letter case.
-     *
+     * <p>
      * Example: (Input --> Output)
-     *                   --> true "aba"
-     *                   --> false "moOse"
-     *                   --> false (ignore letter case)
-     *
+     * --> true "aba"
+     * --> false "moOse"
+     * --> false (ignore letter case)
      */
 
     public static void main(String[] args) {
