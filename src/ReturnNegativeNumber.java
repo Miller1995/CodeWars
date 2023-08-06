@@ -16,7 +16,6 @@ public class ReturnNegativeNumber {
         int number = 7;
         makeNegative(number);
         System.out.println(makeNegativeV2(number));
-
     }
 
     public static int makeNegative(final int x) {
